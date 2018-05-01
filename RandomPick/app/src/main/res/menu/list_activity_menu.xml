@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/detailsButton"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="@string/edit_details"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/generalExport"
+        android:title="@string/export">
+        <menu>
+            <item
+                android:id="@+id/exportListButton"
+                android:title="@string/export_as_file"></item>
+            <item
+                android:id="@+id/exportTextButton"
+                android:title="@string/export_as_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/generalMerge"
+        android:title="@string/add_elements">
+        <menu>
+            <item
+                android:id="@+id/mergeListMenuItem"
+                android:title="@string/merge_list" />
+            <item
+                android:id="@+id/addFromTextButton"
+                android:title="@string/add_form_text_file" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/clearListMenuItem"
+        android:title="@string/clear_list" />
+    <item
+        android:id="@+id/deleteList"
+        android:title="@string/delete_list"
+        app:showAsAction="never" />
+</menu>

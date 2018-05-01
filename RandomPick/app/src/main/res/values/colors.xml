@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00847e</color>
+    <color name="colorPrimaryDark">#00504c</color>
+    <color name="colorAccent">#00bfb6</color>
+    <color name="titleColor">#fff</color>
+    <color name="appBarForeground">#FFF</color>
+    <color name="foreground_material_light">#ffffff</color>
+    <color name="background_material_light">#ffffff</color>
+    <color name="text_color_primary">#000000</color>
+    <color name="Transparent">#00ffffff</color>
+
+    <color name="theme1">#e40000</color>
+    <color name="theme2">#ff7700</color>
+    <color name="theme3">#f1e900</color>
+    <color name="theme4">#44e200</color>
+    <color name="theme5">#00bfb6</color>
+    <color name="theme6">#0079f2</color>
+    <color name="theme7">#9b49ed</color>
+    <color name="theme8">#616161</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Pick</string>
+    <string name="title_activity_new_list">Nueva lista</string>
+    <string name="title_activity_list_menu">Listas</string>
+    <string name="title_activity_list">Lista</string>
+    <string name="confirmation_dialog">¿Estás seguro?</string>
+    <string name="ok">Sí</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_elements">Ningún elemento</string>
+    <string name="element">elemento</string>
+    <string name="elements">elementos</string>
+    <string name="color">Color</string>
+    <string name="add_list">Añadir lista</string>
+    <string name="description">Descripción</string>
+    <string name="list_name">Nombre de la lista</string>
+    <string name="change_color">Cambiar color</string>
+    <string name="export">Exportar</string>
+    <string name="delete_list">Eliminar lista</string>
+    <string name="need_permission">No puesdo exportar la lista sin tu permiso</string>
+    <string name="edit_details">Editar detalles</string>
+    <string name="add_name_description">Añade un nombre y descripción</string>
+    <string name="edit_list">Editar lista</string>
+    <string name="already_exists">Ya existe una lista con este nombre</string>
+    <string name="add_some_text">Introduce texto primero</string>
+    <string name="add">Añadir</string>
+    <string name="new_element">Nuevo elemento</string>
+    <string name="title_activity_settings">Configuración</string>
+    <string name="element_already_in_list">Este elemento ya pertenece a esta lista</string>
+    <string name="added">añadido</string>
+</resources>
