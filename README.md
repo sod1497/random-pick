@@ -2,7 +2,7 @@
 Android app made for managing lists and picking random items from them.
 
 ## Project details
-![Screenshot of the main screen](https://github.com/sod1497/random-pick/blob/master/images/main.jpg)
+![Screenshot of the main screen](https://github.com/sod1497/random-pick/blob/master/images/main.png)
 
 
 ## Why this project
